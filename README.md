@@ -1,5 +1,6 @@
 Restaurant Menu Display
-Project Image
+ScreenShots
+//Check ProjectScreenShots Folder for Project ScreenShots
 
 Table of Contents
 Introduction
@@ -7,8 +8,7 @@ Features
 Technologies
 Installation
 Usage
-Contributing
-License
+Contribution
 Introduction
 "Restaurant Menu Display" is a SwiftUI-based iOS application that displays a restaurant's menu with various food categories and their corresponding items. The app provides a user-friendly interface for customers to browse through different food categories, view item details, and even place orders.
 
@@ -40,8 +40,6 @@ To navigate back, use the back button in the navigation bar.
 Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to create a pull request or raise an issue in the GitHub repository.
 
-License
-This project is licensed under the MIT License.
 
 Replace the placeholders such as "project_image.png," "your-username," and update the content with the relevant details about your project. This README file will help other developers and users understand your project and how to use it effectively.
 
