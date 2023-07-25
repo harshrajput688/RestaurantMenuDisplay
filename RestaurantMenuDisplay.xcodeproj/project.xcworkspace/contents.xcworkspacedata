@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:/Users/harshrajput/SwiftCode/YouTubeProjects/RestaurantMenuDisplay/RestaurantMenuDisplay.xcodeproj">
+      location = "self:">
    </FileRef>
 </Workspace>
